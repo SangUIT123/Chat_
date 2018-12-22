@@ -1,0 +1,14 @@
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\bin\Debug\MyChat.exe.config
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\bin\Debug\MyChat.exe
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\bin\Debug\MyChat.pdb
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.csprojAssemblyReference.cache
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.frmOpenFile.resources
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.frmRename.resources
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.frmServer.resources
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.frmClient.resources
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.frmStart.resources
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.cache
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.csproj.CoreCompileInputs.cache
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.exe
+C:\Users\Phan Minh Sang\Downloads\MyChat\MyChat\MyChat\obj\Debug\MyChat.pdb
